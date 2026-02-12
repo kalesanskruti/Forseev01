@@ -1,0 +1,9 @@
+[submodule "Forsee_FV"]
+	path = Forsee_FV
+	url = https://github.com/kalesanskruti/Forsee_FV.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/kalesanskruti/Forsee_FV.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SohamB-ai/lv.git
