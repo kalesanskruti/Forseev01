@@ -1,0 +1,35 @@
+# Environment files
+.env
+.env.prod
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+backend_debug_log.txt
+backend_error.txt
+backend_error_check.txt
+backend_full_logs.txt
+backend_logs_audit.txt
+backend_logs_fresh.txt
+backend_startup_crash.txt
+branch_push_error.txt
+build_logs.txt
+db_logs.txt
+push_error.txt
+push_error_final.txt
+error_log.txt
+training.log
+
+# Mac
+.DS_Store
+
+# Temporary files
+temp_auth_url.txt
